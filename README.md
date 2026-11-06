@@ -1,1 +1,1 @@
-<img src="koi/koi.gif" width="100%" height="256" alt="My koi" />
+<img src="koi/koi.gif" width="100%" alt="My koi" />
